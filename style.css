@@ -1,0 +1,39 @@
+.fight{ font-family: fightclub;
+  width:170px;
+  height:170px;
+margin-left: 300px;
+margin-top: 200px;
+color: pink;
+background-color: #CC6666;
+padding-top: 30px;
+border-radius: 10px;
+box-shadow: 12px 12px 6px black;
+text-align: center;
+font-size: 70px;
+line-height:50px;
+text-shadow: 5px 6px 2px black;
+-moz-transform: rotate(15deg);
+-webkit-transform: rotate(15deg);
+-ms-transform: rotate(15deg);
+}
+
+.image{height: 200px;
+width:200px;
+margin-left: 440px;
+margin-top: -200px;
+box-shadow: 2px 15px 0px #CC6666;
+border-radius: 6px;}
+
+
+@font-face {
+    font-family: 'fightclub';
+    src: url('fightt3_-webfont.eot');
+    src: url('fightt3_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fightt3_-webfont.woff2') format('woff2'),
+         url('fightt3_-webfont.woff') format('woff'),
+         url('fightt3_-webfont.ttf') format('truetype'),
+         url('fightt3_-webfont.svg#fightthisregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
